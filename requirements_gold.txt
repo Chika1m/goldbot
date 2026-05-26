@@ -1,0 +1,5 @@
+aiohttp
+yfinance
+pandas
+numpy
+requests
